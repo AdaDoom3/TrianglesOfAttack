@@ -1,4 +1,4 @@
 TrianglesOfAttack
 =================
 
-Triangles of attack!
+Matlab multiplayer game
