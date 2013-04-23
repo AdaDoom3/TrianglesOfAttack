@@ -1062,7 +1062,7 @@
           wavread([PATH, sprintf('%.*f', 0, MUSIC_ID), FORMAT]);
         Main_Song = audioplayer(SOUND_MUSIC_CHOICE, SLFS6);
         Main_Song.play;
-        MUSIC_ID = _mod(MUSIC_ID + 1, 6);
+        MUSIC_ID = mod(MUSIC_ID + 1, 6);
         while ~Do_Quit_Game && ishandle(World) && ~Do_Restart && Main_Song.isplaying
           Update_Ships;
           Update_Lasers;
