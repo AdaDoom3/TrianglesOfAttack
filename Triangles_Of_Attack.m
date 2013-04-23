@@ -75,8 +75,7 @@
 %|%     See Licence.txt for more information.                                   %|%
 %|%                                                                             %|%
 %|%                                                                             %|%
-%|%   CREDITS:                                                                  %|%
-%|%     Justin Squirek (jsquirek1@student.gsu.edu)                              %|%                
+%|%   CREDITS:                                                                  %|%               
 %|%     The line intersection algorithm is thanks to U. Murat Erdem.            %|%
 %|%     U. Murat Erdem's original work can be found here:                       %|%
 %|%       http://www.mathworks.com/matlabcentral/fileexchange                   %|%
